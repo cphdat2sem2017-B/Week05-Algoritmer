@@ -5,7 +5,6 @@ Topics: Algorithms, Recursion, Collections and Complexity
 ###Readings:
 
 * [Theory of algorithms & big-O notation](study/ComparingAlgorithms-ComplexityTheory.pdf)
-* [How to measure execution time in Java](study/SestoftMicrobenchmarking.pdf)
 
 An alternative document to read wich covers approximately the same curriculum is [Peter Sestofts note on Search and Sort](study/SestoftSearchAndSort.pdf)
 
