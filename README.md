@@ -51,6 +51,6 @@ Today we will work on a few more algorithms and datastructures to ground the pre
 * [Extra hard exercises](day4red.md)
  
 
-##Day 5 - [Studypoint exercise](day5StudypointExercise.md)
+##Day 5 - [Studypoint exercise](study/day5StudypointExercise.md)
 
 
