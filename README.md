@@ -2,16 +2,18 @@
 # 5th week of the 2nd semester
 Topics: Algorithms, Recursion, Collections and Complexity
 
-###Readings:
 
-* [Theory of algorithms & big-O notation](study/ComparingAlgorithms-ComplexityTheory.pdf)
-
-An alternative document to read wich covers approximately the same curriculum is [Peter Sestofts note on Search and Sort](study/SestoftSearchAndSort.pdf)
 
 ##Day 1 - Collections and efficiency
 The goal is to get an understanding of how one views efficiency of computer programs. 
 
-* [Readings](study/complexity.md)
+###Readings:
+
+* [Theory of algorithms & big-O notation](study/complexity.md)
+
+An alternative document to read wich covers approximately the same curriculum is [Peter Sestofts note on Search and Sort](study/SestoftSearchAndSort.pdf)
+
+### Exercises:
 * [Exercises](study/day1exercises.md)
 
 ##Day 2 - Recursion & binary trees
