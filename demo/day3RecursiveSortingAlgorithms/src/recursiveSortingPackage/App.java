@@ -11,7 +11,7 @@ public class App
     {
 
         //== create and fill array
-        int max = 200_000;
+        int max = 300_000;
         int[] arr = new int[max];		
         Random ran = new Random();
         for (int i = 0; i < arr.length; i++)
@@ -26,7 +26,7 @@ public class App
 //HeapSort.heapsort(arr, arr.length );
 //Arrays.sort(arr);
 //SelectionSort.selectionSort(arr);
-//MergeSort.merge_sort_start(arr);
+MergeSort.merge_sort_start(arr);
 //MergeSortLinkedLists.merge_sort_start(arr);
 //MergeSortCircularArrayLists.merge_sort_start(arr);
 
