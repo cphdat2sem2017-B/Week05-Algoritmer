@@ -52,8 +52,8 @@ Today we will work on a few more algorithms and datastructures to ground the pre
 * [Hashing & Hashmaps](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-associative-arrays/149042/177125-4.html?org=cphbusiness.dk) - this section and the next two (three sections total "Using associative arrays", "Understanding hash functions" and "Using hash tables").
 
 ### Exercises
-* [Exercises for day4](day4exercises.md)
-* [Extra hard exercises](day4red.md)
+* [Exercises for day4](study/day4exercises.md)
+* [Extra hard exercises](study/day4red.md)
  
 
 ##Day 5 - [Studypoint exercise](study/day5StudypointExercise.md)

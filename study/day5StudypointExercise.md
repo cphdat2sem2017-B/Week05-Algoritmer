@@ -1,14 +1,14 @@
 #Studypoint exercise - collection & algorithms
 
 ## Handin: Sunday March 12th at 16:00
-As before, send your handin to **!!!email address to be added!!!**
+Send your handin to koe@cphbusiness.dk
 
-This exercise should be solved and handed in in pairs (two persons). Remember to put both names in the hand-in email.
+This exercise should be solved and handed in in pairs (two persons). **Remember to put both names in the hand-in email.**
 
-### Handin should be a single pdf document##.
+### Handin should be a single pdf document.
 That is, copy the pieces of code from your solutions into a single document - it makes it a lot easier for us to read the hand-in.
 
-##Problem 1
+## Problem 1
 
 What is the time complexity (growth rate) for the following method expressed  in ”Big O” notation? 
 
@@ -31,7 +31,7 @@ public void doFoo(int n)
 }
 ```
 
-##Problem 2
+## Problem 2
 
 Write a method 
 
@@ -59,7 +59,7 @@ Hint: Use JCF (Java Collection Framework) to get the most simple solution.
 
 **In the hand in**: The java code (the method) and  documentation for the test.
 
-##Problem 3
+## Problem 3
 
 Provide arguments for which class(es) from the Java Collection Framework you would choose for an application for which the typical use is expected to be an alternation between  
 	
@@ -70,11 +70,11 @@ while sorting is not needed
 
 **In the hand in**: The choice and the arguments.
 
-##Problem 4
+## Problem 4
 
 Suppose we insert the first 7 different letters in your name (first name and last name) in a binary search tree (empty from start) – one letter at a time.
 
-###a)
+### a)
 Make a sketch of the resulting tree. 
 
 
@@ -84,14 +84,14 @@ Ex. If your name is Hans Olsen, the tree would be like this :
 
 Assume that we in the tree for "Hans Olsen" (as shown above) do the following: Insert "'b" and then delete the "H".
 
-###b)
+### b)
 Make a sketch of the resulting tree.
 
 Hint: Search on the Internet for an algorithm for deleting an element in a binary search tree. [This video](https://www.youtube.com/watch?v=82cIlfCkCCw) shows a number of deletes using the tool we used on day2
 
 **Hand in**: The 2 sketches (you are welcome to hand-draw, take a photo, and add the picture to the document).
 
-##Problem  5
+## Problem  5
 
 Use the class [BinarySearchTree.java](BinarySearchTree.java) (i.e. NOT the one from classes, but the one behind the link). Assume that the tree contains Integers .
 
@@ -111,7 +111,7 @@ Hint2: A type cast to (int) is necessary before adding elements from the tree (C
 
 **Hand in**: The Java code for both methods.
 
-##Porblem 6 (Extra – for the quick, not mandatory) 
+## Problem 6 (Extra – for the quick, not mandatory) 
 
 Use the same class as in exercise 5 ( [BinarySearchTree.java](BinarySearchTree.java) ).
 
